@@ -5,7 +5,7 @@ using AdventofCode2025;
 
 var sw = Stopwatch.StartNew();
 
-var result = new Day3().Part2();
+var result = new Day4().Part2();
 
 sw.Stop();
 
